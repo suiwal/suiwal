@@ -6,10 +6,10 @@ I'm a passionate Front-End Developer with expertise in HTML, CSS, JavaScript.
 - 💻 Actively practicing and refining coding skills, particularly in implementing JavaScript and React Framework.
 - 📚 Engaged in continuous learning on platforms like LeetCode to enhance problem-solving abilities.
 
-Visit my portfolio for a detailed overview of my projects and skills: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=github)]()]
+Visit my portfolio for a detailed overview of my projects and skills: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=github)]()
 
 ### Social Media 📡:
-- Join me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]()
+- Join me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arpit-suiwal-6729691aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
