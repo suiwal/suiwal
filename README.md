@@ -1,10 +1,6 @@
 ## Hello, I'm Arpit Suiwal👋
 
-I'm a passionate Front-End Developer with expertise in HTML, CSS, JavaScript. 
-### About Me:
-- 🌱 Currently, I'm diving deep into the world of web development, focusing on HTML, CSS, and JavaScript.
-- 💻 Actively practicing and refining coding skills, particularly in implementing JavaScript and React Framework.
-- 📚 Engaged in continuous learning on platforms like LeetCode to enhance problem-solving abilities.
+As a motivated and detail-oriented MERN Full Stack Developer with 6 months of hands-on internship experience, I have developed a strong foundation in HTML, CSS, JavaScript, TypeScript, and various technologies including MongoDB, Next.JS, React.JS, Express, and MySQL. My experience extends to practical knowledge in GitHub, Docker, CI/CD processes, and basic AWS and DevOps practices. I am also passionate about leveraging Generative AI and ChatGPT to create innovative solutions and streamline development workflows.
 
 Visit my portfolio for a detailed overview of my projects and skills: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=github)]()
 
@@ -12,7 +8,31 @@ Visit my portfolio for a detailed overview of my projects and skills: [![Portfol
 - Join me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arpit-suiwal-6729691aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
+Skills
+Frontend: HTML, CSS, JavaScript, React.JS, Next.JS, TypeScript
+Backend: Express, MongoDB, MySQL
+DevOps & Cloud: Docker, CI/CD, AWS Basics, DevOps Practices
+Version Control: GitHub
+Generative AI: ChatGPT, AI Integration
+Tools: VS Code, Git, Docker CLI, AWS Management Console
 
+---
+
+Experience
+MERN Full Stack Developer Intern
+[Company Name]
+[Start Date] – [End Date]
+
+Frontend Development: Designed and implemented user interfaces using HTML, CSS, and JavaScript, ensuring responsive and visually appealing layouts.
+React.JS & Next.JS: Developed dynamic web applications and single-page applications (SPAs) using React.JS and Next.JS, enhancing user experience with interactive features.
+Backend Development: Created and managed RESTful APIs using Express, integrated with MongoDB and MySQL databases to support data storage and retrieval.
+TypeScript: Utilized TypeScript to improve code quality and maintainability through type safety and better tooling.
+GitHub: Managed version control with GitHub, including branch management, pull requests, and collaborative coding practices.
+Generative AI: Implemented ChatGPT for natural language processing tasks and explored Generative AI applications in development.
+Docker: Containerized applications using Docker, simplifying deployment and scaling processes.
+CI/CD: Contributed to CI/CD pipelines to automate testing, integration, and deployment processes, enhancing development efficiency.
+AWS Basics: Gained foundational knowledge of AWS services and cloud infrastructure to support scalable and reliable application deployment.
+DevOps Basics: Applied DevOps principles to streamline development workflows and improve collaboration between development and operations teams.
 ## Languages and Tools 🛠️
 ### Languages:
 | HTML | CSS | JavaScript |
