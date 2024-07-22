@@ -48,6 +48,34 @@ AWS Basics: Gained foundational knowledge of AWS services and cloud infrastructu
 
 DevOps Basics: Applied DevOps principles to streamline development workflows and improve collaboration between development and operations teams.
 
+---
+
+Projects
+E-Commerce Web Application
+Technologies: React.JS, Next.JS, Express, MongoDB, MySQL, Docker, AWS
+Description: Developed a full-stack e-commerce platform with features like user authentication, product management, and payment integration. Utilized React.JS for the frontend, Express for the backend API, and MongoDB/MySQL for database management. Implemented Docker for containerization and deployed the application on AWS for scalability and reliability.
+Achievements: Successfully launched the platform with zero downtime and implemented secure payment processing, resulting in a 20% increase in user engagement.
+
+Real-Time Chat Application
+Technologies: React.JS, Node.js, WebSocket, Docker
+Description: Created a real-time chat application using React.JS for the frontend and Node.js with WebSocket for real-time messaging. Dockerized the application to streamline development and deployment processes.
+Achievements: Achieved seamless real-time communication with an average latency of less than 200ms, and deployed the application with Docker, reducing deployment time by 50%.
+
+Blog Platform with Markdown Support
+Technologies: Next.JS, MongoDB, Express, TypeScript, GitHub
+Description: Built a blog platform that supports Markdown for writing and formatting blog posts. Leveraged Next.JS for server-side rendering, MongoDB for data storage, and Express for API development. Utilized TypeScript for type safety and GitHub for version control.
+Achievements: Implemented a WYSIWYG editor for Markdown, enhancing user experience, and reduced bug reports by 30% through TypeScript’s type safety features.
+
+Portfolio Website
+Technologies: HTML, CSS, JavaScript, GitHub
+Description: Designed and developed a personal portfolio website to showcase projects and skills. Used HTML and CSS for layout and styling, and JavaScript for interactive elements. Managed the project’s version control using GitHub.
+Achievements: Improved visibility and outreach with a professional online presence, resulting in a 40% increase in project inquiries.
+
+Learning Management System (LMS)
+Technologies: React.JS, Node.js, MongoDB, Express, TypeScript, Docker
+Description: Developed a Learning Management System to facilitate online learning and course management. Implemented features such as user registration, course enrollment, progress tracking, and interactive content delivery. Utilized React.JS for the frontend, Node.js and Express for backend services, and MongoDB for database management. Dockerized the application for consistent deployment across environments.
+Achievements: Successfully integrated course management features, improved user engagement by 25%, and streamlined administrative tasks through automated progress tracking.
+
 ## Languages and Tools 🛠️
 ### Languages:
 | HTML | CSS | JavaScript |
