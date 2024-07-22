@@ -8,7 +8,7 @@ Visit my portfolio for a detailed overview of my projects and skills: [![Portfol
 - Join me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arpit-suiwal-6729691aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
-Skills
+# Skills
 Frontend: HTML, CSS, JavaScript, React.JS, Next.JS, TypeScript
 
 Backend: Express, MongoDB, MySQL
@@ -23,9 +23,12 @@ Tools: VS Code, Git, Docker CLI, AWS Management Console
 
 ---
 
-Experience
+# Experience
+
 MERN Full Stack Developer Intern
-[Company Name]
+
+SOFTRAW IT SOLUTIONS PVT LTD
+
 [Start Date] – [End Date]
 
 Frontend Development: Designed and implemented user interfaces using HTML, CSS, and JavaScript, ensuring responsive and visually appealing layouts.
@@ -50,7 +53,7 @@ DevOps Basics: Applied DevOps principles to streamline development workflows and
 
 ---
 
-# PROJECTS
+# Projects
 
 E-Commerce Web Application
  Technologies: React.JS, Next.JS, Express, MongoDB, MySQL, Docker, AWS
