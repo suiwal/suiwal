@@ -10,10 +10,15 @@ Visit my portfolio for a detailed overview of my projects and skills: [![Portfol
 ---
 Skills
 Frontend: HTML, CSS, JavaScript, React.JS, Next.JS, TypeScript
+
 Backend: Express, MongoDB, MySQL
+
 DevOps & Cloud: Docker, CI/CD, AWS Basics, DevOps Practices
+
 Version Control: GitHub
+
 Generative AI: ChatGPT, AI Integration
+
 Tools: VS Code, Git, Docker CLI, AWS Management Console
 
 ---
