@@ -24,15 +24,25 @@ MERN Full Stack Developer Intern
 [Start Date] – [End Date]
 
 Frontend Development: Designed and implemented user interfaces using HTML, CSS, and JavaScript, ensuring responsive and visually appealing layouts.
+
 React.JS & Next.JS: Developed dynamic web applications and single-page applications (SPAs) using React.JS and Next.JS, enhancing user experience with interactive features.
+
 Backend Development: Created and managed RESTful APIs using Express, integrated with MongoDB and MySQL databases to support data storage and retrieval.
+
 TypeScript: Utilized TypeScript to improve code quality and maintainability through type safety and better tooling.
+
 GitHub: Managed version control with GitHub, including branch management, pull requests, and collaborative coding practices.
+
 Generative AI: Implemented ChatGPT for natural language processing tasks and explored Generative AI applications in development.
+
 Docker: Containerized applications using Docker, simplifying deployment and scaling processes.
+
 CI/CD: Contributed to CI/CD pipelines to automate testing, integration, and deployment processes, enhancing development efficiency.
+
 AWS Basics: Gained foundational knowledge of AWS services and cloud infrastructure to support scalable and reliable application deployment.
+
 DevOps Basics: Applied DevOps principles to streamline development workflows and improve collaboration between development and operations teams.
+
 ## Languages and Tools 🛠️
 ### Languages:
 | HTML | CSS | JavaScript |
