@@ -50,7 +50,8 @@ DevOps Basics: Applied DevOps principles to streamline development workflows and
 
 ---
 
-Projects
+PROJECTS
+
 E-Commerce Web Application
 Technologies: React.JS, Next.JS, Express, MongoDB, MySQL, Docker, AWS
 Description: Developed a full-stack e-commerce platform with features like user authentication, product management, and payment integration. Utilized React.JS for the frontend, Express for the backend API, and MongoDB/MySQL for database management. Implemented Docker for containerization and deployed the application on AWS for scalability and reliability.
