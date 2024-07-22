@@ -2,6 +2,11 @@
 
 As a motivated and detail-oriented MERN Full Stack Developer with 6 months of hands-on internship experience, I have developed a strong foundation in HTML, CSS, JavaScript, TypeScript, and various technologies including MongoDB, Next.JS, React.JS, Express, and MySQL. My experience extends to practical knowledge in GitHub, Docker, CI/CD processes, and basic AWS and DevOps practices. I am also passionate about leveraging Generative AI and ChatGPT to create innovative solutions and streamline development workflows.
 
+
+Visit my portfolio for a detailed overview of my projects and skills: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=github)]()
+
+### Social Media 📡:
+- Join me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arpit-suiwal-6729691aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 ---
 # Skills
 Frontend: HTML, CSS, JavaScript, React.JS, Next.JS, TypeScript
@@ -113,10 +118,7 @@ Learning Management System (LMS)
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=suiwal&style=for-the-badge&color=orange" alt="Profile Views Count"/>
 </div>
-Visit my portfolio for a detailed overview of my projects and skills: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=github)]()
 
-### Social Media 📡:
-- Join me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arpit-suiwal-6729691aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 <!--
 **suiwal/suiwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
