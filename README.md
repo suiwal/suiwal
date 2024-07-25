@@ -92,6 +92,11 @@ Learning Management System (LMS)
  content delivery. Utilized React.JS for the frontend, Node.js and Express for backend services, and MongoDB for database management. Dockerized the application for consistent deployment across environments.
  Achievements: Successfully integrated course management features, improved user engagement by 25%, and streamlined administrative tasks through automated progress tracking.
 
+# Education
+Bachelor's of computer application
+ICFAI University Jaipur
+2025
+
 ## Languages and Tools 🛠️
 ### Languages:
 | HTML | CSS | JavaScript |
