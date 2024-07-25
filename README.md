@@ -36,7 +36,7 @@ MERN Full Stack Developer Intern
 
 SOFTRAW IT SOLUTIONS PVT LTD
 
-[Start Date] – [End Date]
+3rd June – 24th July
 
 Frontend Development: Designed and implemented user interfaces using HTML, CSS, and JavaScript, ensuring responsive and visually appealing layouts.
 
@@ -94,7 +94,9 @@ Learning Management System (LMS)
 
 # Education
 Bachelor's of computer application
+
 ICFAI University Jaipur
+
 2025
 
 ## Languages and Tools 🛠️
