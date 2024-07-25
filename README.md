@@ -2,6 +2,13 @@
 
 As a motivated and detail-oriented MERN Full Stack Developer with 6 months of hands-on internship experience, I have developed a strong foundation in HTML, CSS, JavaScript, TypeScript, and various technologies including MongoDB, Next.JS, React.JS, Express, and MySQL. My experience extends to practical knowledge in GitHub, Docker, CI/CD processes, and basic AWS and DevOps practices. I am also passionate about leveraging Generative AI and ChatGPT to create innovative solutions and streamline development workflows.
 
+#About Me
+- 🌱 Currently, I'm diving deep into the world of web development, focusing on HTML, CSS, and JavaScript.
+ 
+- 💻 Actively practicing and refining coding skills, particularly in implementing JavaScript and React Framework.
+ 
+- 📚 Engaged in continuous learning on platforms like LeetCode to enhance problem-solving abilities
+
 
 Visit my portfolio for a detailed overview of my projects and skills: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=github)](https://suiwal.github.io/portfolio-website/)
 
